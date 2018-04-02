@@ -1,5 +1,6 @@
 # Spring을 이용한 신청 페이지 만들기
 개인 프로젝트
+레이아웃 기능
 ---
 
 ## 사용한 툴(?) : JAVA, Spring, Javascript(Jquery), MYSQL, JSP CSS(Bootstrap)
